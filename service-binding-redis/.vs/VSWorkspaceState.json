@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\microsoft",
+    "\\src\\main\\java\\com\\microsoft\\azure",
+    "\\target"
+  ],
+  "SelectedNode": "\\target\\asc-service-binding-redis-sample-0.1.0.jar",
+  "PreviewInSolutionExplorer": false
+}
